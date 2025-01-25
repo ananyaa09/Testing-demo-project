@@ -1,4 +1,4 @@
-# Testing-demo-project
+# Testing-demo-project - Amazon.com
 
 **home-page.ts:**
     Handles the automation of the homepage functionality.
